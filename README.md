@@ -98,7 +98,7 @@ mostra a soma de todos os acessos por empresa.
 
 ## 📌 Observações
 
--   Apenas arquivos **Excel (.xlsx)** são aceitos como entrada.\
+-   Apenas arquivos **Excel (.CSV)** são aceitos como entrada.\
 -   O cálculo de **% de ocupação** é baseado em um limite fixo de
     **8.931 pessoas** (valor definido no código).\
 -   Caso o usuário não selecione os arquivos corretamente, uma mensagem
